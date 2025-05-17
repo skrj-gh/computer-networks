@@ -1,6 +1,31 @@
 # Computer Networks Lab Assignments
 These are the lab submissions done for CS342 Computer Networks Laboratory.
 
+## Assignment1
+- Perform various activities according to functionalities available in the assigned application and collect the traces for the application using Wireshark
+  - Zoom
+  - Live Sport Streaming
+  - Youtube - uploading video
+  - Youtube - downloading and buffering
+  - NPTEL video lectures
+  - Twitch (live streaming video platform) or Hotstar video streaming
+  - MS-Teams
+  - P2P connectivity using Remote desktop and softwares like Team Viewer
+  - Online games
+  - Dropbox
+- List out all the protocols used by the application at different layers
+- Highlight and explain the observed values for various fields of protocols
+- Explain the sequence of messages exchanged by the application for using the available functionalities in the application
+- Explain how the protocol(s) used by the application is relevant for its functioning
+- Calculate the following statistics
+  - Throughput
+  - RTT
+  - Packet size
+  - Number of packets lost
+  - Number of UDP & TCP packets
+  - Number of responses received with respect to one request sent
+- Use TCPDUMP with necessary filters for actual capture and wireshark for analysis
+
 ## Assignment2
 - HTTP using Wireshark
   - Analyze HTTP Request
